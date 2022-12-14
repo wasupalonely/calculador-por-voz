@@ -11,3 +11,5 @@
 Si se presentan problemas al instalar PyAudio, instala el archivo de PyAudio de acuerdo a tu versión de Python
 en este [link](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio) y luego instala lo que descargaste por medio
 de pip install
+
+Si se identifica un problema con el micrófono, puedes identificar el problema [aquí](https://realpython.com/python-speech-recognition/#working-with-microphones)
